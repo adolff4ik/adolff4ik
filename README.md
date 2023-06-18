@@ -1,7 +1,6 @@
 ### Hi there, I'm Serhiy Ivashchenko, Software Engineer from Ukraine 💻
 Contacts:
 [Telegram](https://t.me/drevni_ykr)
-
 </br></br>
 ### 🖥️ Languages and Tools:
 
