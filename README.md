@@ -15,6 +15,8 @@ Contacts:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
 <!--
 **adolff4ik/adolff4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
