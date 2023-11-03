@@ -7,16 +7,16 @@ Contacts:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Nginx](https://img.shields.io/badge/nginx-black?style=flat-square&logo=nginx)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=celery)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 <!--
 **adolff4ik/adolff4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
